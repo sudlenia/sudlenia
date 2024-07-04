@@ -11,7 +11,7 @@
 * <a href="https://github.com/sudlenia/Vue-ToDoList">ToDoList</a>
 
 
-<img src="img/Js.png" alt="js">
+<img src="img/JS.png" alt="js">
 
 * <a href="https://github.com/sudlenia/Frontend-Project">Frontend Study Project</a>
 
