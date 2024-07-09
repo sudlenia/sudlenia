@@ -1,4 +1,4 @@
-<img src="img/Flutter.png" alt="flutter" height="60" style="margin-left: 20px;">
+<img src="img/Flutter.png" alt="flutter" height="60">
 
 
 * <a href="https://github.com/sudlenia/Tip-Calculation-App">Tip Calculator</a>
@@ -6,23 +6,23 @@
 * <a href="https://github.com/sudlenia/Tip-Calculation-App">ToDoList w/ Achievements and Time-Tracker</a>
 
 
-<img src="img/Vue.png" alt="vue" height="100">
+<img src="img/Vue.png" alt="vue" height="60">
 
 * <a href="https://github.com/sudlenia/Vue-ToDoList">ToDoList</a>
 
 
-<img src="img/JS.png" alt="js" height="42">
+<img src="img/JS.png" alt="js" height="60">
 
 * <a href="https://github.com/sudlenia/Frontend-Project">Frontend Study Project</a>
 
 
-<img src="img/CSh.png" alt="C#">
+<img src="img/CSh.png" alt="C#" height="60">
 
 * <a href="https://github.com/sudlenia/GooseGameRogueLike">Goose Game Rogue Like</a>
 * <a href="https://github.com/sudlenia/WinForms-WPF-Apps">WinForm and WPF Apps</a>
 
 
-<img src="img/Python.png" alt="Python#">
+<img src="img/Python.png" alt="Python#" height="60">
 
 * <a href="https://github.com/sudlenia/Backend-Flask-Django-Study">Flask and Django Study Projects</a>
 
