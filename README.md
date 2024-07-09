@@ -1,4 +1,4 @@
-<img src="img/Flutter.png" alt="flutter">
+<img src="img/Flutter.png" alt="flutter" height="60" style="margin-left: 20px;">
 
 
 * <a href="https://github.com/sudlenia/Tip-Calculation-App">Tip Calculator</a>
@@ -6,12 +6,12 @@
 * <a href="https://github.com/sudlenia/Tip-Calculation-App">ToDoList w/ Achievements and Time-Tracker</a>
 
 
-<img src="img/Vue.png" alt="vue">
+<img src="img/Vue.png" alt="vue" height="100">
 
 * <a href="https://github.com/sudlenia/Vue-ToDoList">ToDoList</a>
 
 
-<img src="img/JS.png" alt="js">
+<img src="img/JS.png" alt="js" height="42">
 
 * <a href="https://github.com/sudlenia/Frontend-Project">Frontend Study Project</a>
 
